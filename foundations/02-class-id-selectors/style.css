@@ -1,0 +1,16 @@
+.a{
+    background-color: pink;
+    font-family: Verdana,Dejavu-sans,sans-serif;
+}
+#z{
+    color: blue;
+    font-size: 36px;
+}
+.a .b{
+    font-size: 24px;
+}
+#y{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
